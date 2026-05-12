@@ -5,4 +5,4 @@ using namespace std;
 // RelasidanInheritance
 
 class dokter;
-
+class pasien
